@@ -11,7 +11,7 @@ pip install -r requirements.txt
 By running this code, you can read the number of dice present in the image as well as the numbers on each dice.
 
 ### hist2image.py
-By running this file, you can generate an image from a histogram.
+By running this file, you can generate a random image from a histogram.
 
 
 ### find_contours.py
